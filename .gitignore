@@ -1,0 +1,8 @@
+*.md
+/LICENSE
+Net/
+JS/
+Java/target/
+.idea/
+*.iml
+*.xml
