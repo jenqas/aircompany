@@ -6,3 +6,4 @@ Java/target/
 .idea/
 *.iml
 *.xml
+!pom.xml
